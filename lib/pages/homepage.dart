@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:profileapp/model/student.dart';
 import 'package:profileapp/pages/detailspage.dart';
